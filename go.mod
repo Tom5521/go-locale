@@ -1,4 +1,4 @@
-module github.com/jeandeaual/go-locale
+module github.com/Tom5521/go-locale
 
 go 1.18
 
